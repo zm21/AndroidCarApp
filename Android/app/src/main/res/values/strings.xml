@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopAuto</string>
+    <string name="email">Електронна пошта</string>
+    <string name="register">Реєстрація</string>
+</resources>
